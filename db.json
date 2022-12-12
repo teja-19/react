@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "title": "Birthday wishes",
+      "description": "gift your friend a bday gift",
+      "draft": true,
+      "id": 2
+    },
+    {
+      "title": "hello",
+      "description": "how are u dng",
+      "draft": true,
+      "id": 3
+    },
+    {
+      "title": "Attend event",
+      "description": "Marriage ceremony of friend",
+      "draft": true,
+      "id": 4
+    },
+    {
+      "title": "Go to gym",
+      "description": "Wake up at 6am hit gym and come home by8am",
+      "draft": false,
+      "id": 5
+    }
+  ]
+}
