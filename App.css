@@ -1,0 +1,111 @@
+.container{
+  text-align: center;
+ 
+}
+.Para{
+  display: inline-block; 
+  height: 80px;
+  border-left-width: 5px;
+  border-right-width: 5px;
+  margin: 0 auto;
+  white-space: pre;
+  padding: 0;
+  position: relative;
+ 
+} 
+
+h1{
+  border-color:#800000;
+  border-style: solid;
+  background-color: #800000;
+  overflow: hidden;
+  margin:0 auto;
+  
+  
+
+}
+.but{
+  text-align: center;
+  width: 80px;
+  padding: 10px 10px;
+  font-size:20px;
+  border-radius: 10px;
+  border: 0;
+  /* background-color: #f1af71; */
+  cursor: pointer;
+
+}
+.but-del{
+  text-align: center;
+  width:60px;
+  padding: 10px 10px;
+  font-size:15px;
+  border-radius: 10px;
+  border: 0;
+  color: white;
+  background-color:crimson;
+  cursor: pointer;
+  position: relative;
+  bottom:42px;
+  left: 350px;
+}
+.btn-mt-3{
+  bottom:42px;
+  left: 20px;
+  outline: none;
+       
+}
+.modal-header
+ {
+     text-align: center;
+     border-bottom:1px solid #eee;
+     background-color: #800000;
+ }
+.but--del{
+     
+      text-align: center;
+      border: none;
+       flex-direction: "row";
+       display: flex;
+       position: relative;
+        bottom:18px;
+        left: 20px;
+        background-color: Transparent;
+        border-radius: 2%;
+        width: none;
+        color: red;
+}
+.but--edit{
+ 
+  text-align: center;
+  width: none;
+  background-color: Transparent;
+  border:none;
+  flex-direction: "row";
+  display: flex;
+  position: relative;
+  bottom: 1px;
+  left: 300px;
+  border-radius: 2%;
+  color: green;
+}
+.mx-1{
+  /* border:none; */
+  background-color: Transparent;
+  border-radius: 100px;
+  border: 2px solid #73AD21;
+  border-top-left-radius: 20px;
+}
+.mx-2{
+  /* border:none; */
+  background-color: Transparent;
+  border-radius: 25px;
+  border: 2px solid orange;
+  
+}
+.mx-1:hover{
+  background-color: #73AD21;
+}
+.mx-2:hover{
+  background-color:orange;
+}
